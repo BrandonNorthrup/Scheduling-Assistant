@@ -1,0 +1,27 @@
+2020-05-05T12:29:26.202-06:00[America/Denver] test Failed
+2020-05-05T12:31:56.572-06:00[America/Denver] Test Failed
+2020-05-05T12:32:53.974-06:00[America/Denver]  Failed
+2020-05-05T12:32:58.159-06:00[America/Denver]  Failed
+2020-05-05T12:33:10.198-06:00[America/Denver] U06ulb Failed
+2020-05-05T12:33:22.564-06:00[America/Denver] TEST Failed
+2020-05-05T12:33:58.592-06:00[America/Denver] Username Failed
+2020-05-05T12:37:55.482-06:00[America/Denver] test Failed
+2020-05-05T12:41:33.400-06:00[America/Denver] U06ulb Failed
+2020-05-05T12:46:40.147-06:00[America/Denver] Username Failed
+2020-05-05T12:48:38.853-06:00[America/Denver] 123 Failed
+2020-05-05T12:48:50.922-06:00[America/Denver] username Failed
+2020-05-05T12:51:18.148-06:00[America/Denver]  Failed
+2020-05-05T15:12:51.484-06:00[America/Denver] test successfully logged in.
+2020-05-05T15:14:21.084-06:00[America/Denver] test successfully logged in.
+2020-05-05T15:23:35.806-06:00[America/Denver] test successfully logged in.
+2020-05-05T15:49:25.332-06:00[America/Denver] test successfully logged in.
+2020-05-05T16:06:17.247-06:00[America/Denver] test successfully logged in.
+2020-05-05T16:33:08.613-06:00[America/Denver] test successfully logged in.
+2020-05-05T16:34:00.815-06:00[America/Denver] asd failed to log in.
+2020-05-05T16:34:20.566-06:00[America/Denver] test successfully logged in.
+2020-05-05T16:35:33.649-06:00[America/Denver] test successfully logged in.
+2020-05-05T16:36:08.125-06:00[America/Denver] test successfully logged in.
+2020-05-05T16:36:48.115-06:00[America/Denver] test successfully logged in.
+2020-05-05T16:38:00.821-06:00[America/Denver] test successfully logged in.
+2020-05-05T16:38:19.275-06:00[America/Denver] test successfully logged in.
+2020-05-05T16:39:38.998-06:00[America/Denver] test successfully logged in.
